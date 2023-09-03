@@ -1,0 +1,5 @@
+patient_data/*
+synthea/*
+.venv/*
+pyingest/*
+.ipynb_checkpoints/*
